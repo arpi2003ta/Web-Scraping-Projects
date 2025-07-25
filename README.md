@@ -2,13 +2,6 @@
 
 Web scraping is the automated process of extracting data from websites.
 
-## 🎯 Objectives
-1. **Automate Hotel Data Collection** – Extract key details from Booking.com efficiently.
-2. **Flexible Scraping** – Allow users to input a URL and filename for custom searches.
-3. **Data Storage** – Save extracted hotel details in a structured CSV format.
-4. **Error Handling & Performance** – Implement sleep timers and request headers for smooth scraping.
-5. **User-Friendly Execution** – Provide a seamless command-line experience for users.
-
 ## 🔧 Technologies & Libraries Used
 - **Python 3.x**
 - **BeautifulSoup4** – For parsing HTML and extracting hotel details.
