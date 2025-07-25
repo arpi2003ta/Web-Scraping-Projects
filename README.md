@@ -5,7 +5,7 @@ Web scraping is the automated process of extracting data from websites.
 ## 🔧 Technologies & Libraries Used
 - **Python 3.x**
 - **BeautifulSoup4** – For parsing HTML and extracting hotel details.
-- **Requests** – For sending HTTP requests to Booking.com.
+- **Requests** – For sending HTTP requests to websites.
 - **CSV** – To store extracted data in a structured format.
 - **LXML** – For fast and efficient HTML parsing.
 
