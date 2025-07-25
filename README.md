@@ -20,7 +20,7 @@ Web scraping is the automated process of extracting data from websites.
    ```
    
 ## ⚠️ Disclaimer
-This projects is intended for **educational purposes** only. Scraping websites without permission may violate terms of service. Use responsibly and check Booking.com's scraping policies before deploying.
+This projects is intended for **educational purposes** only. Scraping websites without permission may violate terms of service. 
 
 ---
 💡 **Happy Scraping!** 🚀
